@@ -1,6 +1,6 @@
 <?php
-$nama_depan = "Halim";
-$nama_belakang = "Suryana";
+$nama_depan = "Tastaftian";
+$nama_belakang = "Ganda";
 
 for ($i = 1; $i <= 100; $i++) {
     if ($i % 3 == 0 && $i % 5 == 0) {
