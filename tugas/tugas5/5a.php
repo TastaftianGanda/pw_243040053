@@ -11,7 +11,7 @@ $mahasiswa = [
     ['Salman Kepli', '243040010', 'kepli@gmail.com', 'Teknik Informatika', 'salman.jpg'],
     ['Halim', '243040027', 'halimsur@gmail.com', 'Teknik Informatika', 'halim.jpg'],
 ];
-// echo $mahasiswa[1][2];
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
